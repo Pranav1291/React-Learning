@@ -8,11 +8,9 @@ function App() {
 
   return (
     <>
-      
-      <h1>Learn about Redux Toolkit</h1>
+     <h1>Let's Learn Redux Toolkit</h1>
     </>
   )
 }
 
-
-export default App;
+export default App
